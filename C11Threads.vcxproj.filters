@@ -21,7 +21,7 @@
     <ClCompile Include="WorkerThread.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TSStack.cpp">
+    <ClCompile Include="ThreadSafeDS\TSStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,7 +32,7 @@
     <ClInclude Include="ThreadGuard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TSStack.h">
+    <ClInclude Include="ThreadSafeDS\TSStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
